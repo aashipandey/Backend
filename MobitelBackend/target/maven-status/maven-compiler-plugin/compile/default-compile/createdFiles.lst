@@ -1,0 +1,10 @@
+com\mobitel\MobitelBackend\Configuration.class
+com\mobitel\MobitelBackend\config\CategoryTestCase.class
+com\mobitel\MobitelBackend\MyBean.class
+com\mobitel\MobitelBackend\MyConfiguration.class
+com\mobitel\MobitelBackend\App.class
+com\mobitel\MobitelBackend\dao\CategoryDAO.class
+com\mobitel\MobitelBackend\config\DBConfig.class
+com\mobitel\MobitelBackend\Bean.class
+com\mobitel\MobitelBackend\model\Category.class
+com\mobitel\MobitelBackend\MyBeanTestCase.class
